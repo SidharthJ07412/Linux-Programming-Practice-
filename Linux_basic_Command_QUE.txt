@@ -1,0 +1,12 @@
+1. How to set proxy via cli? 
+2. Write a script that will print number form 1 to 20. 
+3. Modifies above script that will print number form user_input_1 to  user_input_2. 
+4. Modifies above script that will print number form user_input_1 to  user_input_2 but taking number as command line arguments. 5. Write a script that will takes two command line arguments :  1. first one is for filename 
+2. second is for line number. 
+ output: Your script will print the line number content of that file on console. 6. Create and append content to a file using 'cat' command. 7. Create a script that will takes filename and pattern string as arguments and  print the pattern and line number on which the pattern is written in that file. 8. Implement Binary search in BASH scripting. 
+9. Write a script that will accepts a string which stands for some path on our  system and display all the files/dir on that path. 
+10. Write a cron job on your system that will create alias commands for you at  boot time. 
+for eg. $ my_clear => clear 
+$ make_dir => mkdir  
+(objective : customize system commands, kind of)
+11. Write a script for number guessing game. Generate a random number at  start of your script and take a guess from user if guess is correct exit with  message congratulations, else too low and too high based on user guess until 5  times. 
